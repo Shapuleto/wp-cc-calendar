@@ -1,14 +1,10 @@
 {
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "http://wpackagist.org"
+    "name": "my/plugin-package",
+    "type": "composer-plugin",
+    "require": {
+        "composer-plugin-api": "^1.0"
+    },
+    "extra": {
+        "class": "cc\\saltamontes"
     }
-  ],
-  "require": {
-    "php": ">=5.4",
-    "fancyguy/wordpress-monolog": "dev-master",
-    "wpackagist-plugin/advanced-custom-fields": "*",
-    "wpackagist-plugin/posts-to-posts": "1.4.x"
-  }
 }
