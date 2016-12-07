@@ -10,5 +10,5 @@
     "fancyguy/wordpress-monolog": "dev-master",
     "wpackagist-plugin/advanced-custom-fields": "*",
     "wpackagist-plugin/posts-to-posts": "1.4.x"
-  },
+  }
 }
