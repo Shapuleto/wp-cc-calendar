@@ -1,0 +1,14 @@
+{
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "http://wpackagist.org"
+    }
+  ],
+  "require": {
+    "php": ">=5.4",
+    "fancyguy/wordpress-monolog": "dev-master",
+    "wpackagist-plugin/advanced-custom-fields": "*",
+    "wpackagist-plugin/posts-to-posts": "1.4.x"
+  },
+}
