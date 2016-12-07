@@ -1,17 +1,7 @@
 {
     "name": "saltamontes/wp-cc-calendar",
-		"description": "Custom Calendar for Custom Post Type",
-		"keywords": ["wordpress", "plugin", "custom post", "custom"],
-	  "license": "MIT",
-	  "authors": [
-	    {
-	      "name": "Oscar Chavez",
-	      "email": "shapuleto@gmail.com",
-	    }
-	  ],
     "type": "wordpress-plugin",
     "require": {
-			"php": ">=5.3.2",
         "composer-installers": "v1.0.6"
     },
     "extra": {
